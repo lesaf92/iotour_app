@@ -1,6 +1,6 @@
-# React Native Starter Kit 🚀
+# React-Native App for IoTour 🚀
 
-Bootstrap your app development by using this awesome react native starter kit, integrated with Firebase Auth and Facebook Login. Clone this boilerplate app to get you up and running quickly.
+Still improving, supposed to use BLE and 
 
 ## Fully working features
 
@@ -11,6 +11,3 @@ Bootstrap your app development by using this awesome react native starter kit, i
 * Persistent Login Credentials (a.k.a Remember password)
 * Logout Functionality
 * Beautiful UI and transitions
-
-## App Designs
-
